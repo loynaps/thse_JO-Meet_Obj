@@ -1,0 +1,19 @@
+1-  //Let's ensure that all GoKarts created have a color. We'll solve this over a few steps.
+
+//First, define a public constructor that expects a String argument named color. (Don't worry about adding any code inside the constructor just yet, we'll do that next.
+
+class GoKart {
+  private String color = "red";
+
+  public String getColor() {
+    return color;
+  }
+
+}
+
+
+//2-Now in the body of your constructor, set the private field color to the value of the color argument passed into the cons
+
+
+//3-Finally, since the color is being set in the constructor now, remove the initialization from the field definition...
+

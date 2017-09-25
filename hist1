@@ -1,0 +1,880 @@
+Script started on Sun 24 Sep 2017 15:02:14 CAT
+]0;lloyso@lloyso-001-PC: ~/thse_Objects_Java[01;32mlloyso@lloyso-001-PC[00m:[01;34m~/thse_Objects_Java[00m$ ls
+4-Add_Constructor-challenge  GoKart1.java    kart2a.java
+add getter challenge.        GoKart2a.class  kart3.java
+Example2.java                GoKart2a.java   PezDispenser3.class
+Example3.class               GoKart2.java    PezDispenser3.java
+Example3.java                GoKart3.java    PezDispenser4.class
+Example4.class               GoKart.java     PezDispenser4.java
+Example4.java                hist1           PezDispenser.class
+Example.class                JOchalnge001    PezDispenser.java
+Example.java                 kart2a.class    README.md
+]0;lloyso@lloyso-001-PC: ~/thse_Objects_Java[01;32mlloyso@lloyso-001-PC[00m:[01;34m~/thse_Objects_Java[00m$ cat hist1 
+]0;lloyso@lloyso-001-PC: ~/thse_Objects_Java[01;32mlloyso@lloyso-001-PC[00m:[01;34m~/thse_Objects_Java[00m$ weher[K[K[K[K[Kcd ..
+]0;lloyso@lloyso-001-PC: ~[01;32mlloyso@lloyso-001-PC[00m:[01;34m~[00m$ where is gcc
+No command 'where' found, did you mean:
+ Command 'gwhere' from package 'gwhere' (universe)
+where: command not found
+]0;lloyso@lloyso-001-PC: ~[01;32mlloyso@lloyso-001-PC[00m:[01;34m~[00m$ where is gcc[1P
+gcc: /usr/bin/gcc /usr/lib/gcc /usr/share/man/man1/gcc.1.gz
+]0;lloyso@lloyso-001-PC: ~[01;32mlloyso@lloyso-001-PC[00m:[01;34m~[00m$ gcc --version
+gcc (Ubuntu/Linaro 6.3.0-18ubuntu2~16.04) 6.3.0 20170519
+Copyright (C) 2016 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+]0;lloyso@lloyso-001-PC: ~[01;32mlloyso@lloyso-001-PC[00m:[01;34m~[00m$ which gcc
+/usr/bin/gcc
+]0;lloyso@lloyso-001-PC: ~[01;32mlloyso@lloyso-001-PC[00m:[01;34m~[00m$ which gccgcc --version[2Pwhereis gcc[1@ [C[C[C[C[C[C[7Pcd ..at hist1 ls[K[K[Kclear
+[3;J[H[2J]0;lloyso@lloyso-001-PC: ~[01;32mlloyso@lloyso-001-PC[00m:[01;34m~[00m$ clearwhich gccgcc --version[2Pwhereis gcc[1@ [C[C[C[C[C[C[7Pcd ..at hist1 ls[Kunamejava IPAddress [1@HelloWorld[C[6@TransposeAMatrix[C[7Psudo apt updatedd-apt-repository ppa:george-edison55/cmake-3.x[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[31Ppt install cmake[14Pvimtutorapt listsudo apt install vim[5Pupdatedd-apt-repository ppa:jonathonf/vim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvim tutor[Ksudo apt-get install vim codelite cmake[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[26Pg++ --versioncc[C[C[C[C[C[C[C[C[C[C[1Pversionsudo update-alternatives --install /usr/bin/gcc gcc /usr//bin/gcc-6 20 --slave /usr/bin/g++ g++ /usr/bin/g++-6[A[24Papt-get install gcc-6 g++-6
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cupdate[Kdd-apt-repository ppa:ubuntu-toolchain-r/test[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg++ --version[Kcc welcome.c [1P--version[1Pversion[2P./swdd.sh [4@java Example3[C[6@c Example3.java[Ccd thse_Objects_Java/[1Pjavac Example3.java cd thse_Objects_Java/[1Pjavac Example3.java [6P Example3[C[6@c Example3.java[Cclear[Kjavac Example3.java clear[Kjavac Example2.java [7P Example[Ccd thse_Objects_Java/[8Pjava Example [7@c Example2.java[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd thse_Objects_Java/
+]0;lloyso@lloyso-001-PC: ~/thse_Objects_Java[01;32mlloyso@lloyso-001-PC[00m:[01;34m~/thse_Objects_Java[00m$ cd thse_Objects_Java/lear[Kwhich gccgcc --version[K[K[K[K[K[K[K[K[K[K[K[K[Kjavac kart3a
+error: Class names, 'kart3a', are only accepted if annotation processing is explicitly requested
+1 error
+]0;lloyso@lloyso-001-PC: ~/thse_Objects_Java[01;32mlloyso@lloyso-001-PC[00m:[01;34m~/thse_Objects_Java[00m$ [K]0;lloyso@lloyso-001-PC: ~/thse_Objects_Java[01;32mlloyso@lloyso-001-PC[00m:[01;34m~/thse_Objects_Java[00m$ java kart2a [K[K[K3a
+Error: Could not find or load main class kart3a
+]0;lloyso@lloyso-001-PC: ~/thse_Objects_Java[01;32mlloyso@lloyso-001-PC[00m:[01;34m~/thse_Objects_Java[00m$ java kart3ac kart3a
+error: Class names, 'kart3a', are only accepted if annotation processing is explicitly requested
+1 error
+]0;lloyso@lloyso-001-PC: ~/thse_Objects_Java[01;32mlloyso@lloyso-001-PC[00m:[01;34m~/thse_Objects_Java[00m$ cd 3c003/
+]0;lloyso@lloyso-001-PC: ~/thse_Objects_Java/3c003[01;32mlloyso@lloyso-001-PC[00m:[01;34m~/thse_Objects_Java/3c003[00m$ cd 3c003/javac kart3a
+error: Class names, 'kart3a', are only accepted if annotation processing is explicitly requested
+1 error
+]0;lloyso@lloyso-001-PC: ~/thse_Objects_Java/3c003[01;32mlloyso@lloyso-001-PC[00m:[01;34m~/thse_Objects_Java/3c003[00m$ String color[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+]0;lloyso@lloyso-001-PC: ~/thse_Objects_Java[01;32mlloyso@lloyso-001-PC[00m:[01;34m~/thse_Objects_Java[00m$ javac
+Usage: javac <options> <source files>
+where possible options include:
+  -g                         Generate all debugging info
+  -g:none                    Generate no debugging info
+  -g:{lines,vars,source}     Generate only some debugging info
+  -nowarn                    Generate no warnings
+  -verbose                   Output messages about what the compiler is doing
+  -deprecation               Output source locations where deprecated APIs are used
+  -classpath <path>          Specify where to find user class files and annotation processors
+  -cp <path>                 Specify where to find user class files and annotation processors
+  -sourcepath <path>         Specify where to find input source files
+  -bootclasspath <path>      Override location of bootstrap class files
+  -extdirs <dirs>            Override location of installed extensions
+  -endorseddirs <dirs>       Override location of endorsed standards path
+  -proc:{none,only}          Control whether annotation processing and/or compilation is done.
+  -processor <class1>[,<class2>,<class3>...] Names of the annotation processors to run; bypasses default discovery process
+  -processorpath <path>      Specify where to find annotation processors
+  -parameters                Generate metadata for reflection on method parameters
+  -d <directory>             Specify where to place generated class files
+  -s <directory>             Specify where to place generated source files
+  -h <directory>             Specify where to place generated native header files
+  -implicit:{none,class}     Specify whether or not to generate class files for implicitly referenced files
+  -encoding <encoding>       Specify character encoding used by source files
+  -source <release>          Provide source compatibility with specified release
+  -target <release>          Generate class files for specific VM version
+  -profile <profile>         Check that API used is available in the specified profile
+  -version                   Version information
+  -help                      Print a synopsis of standard options
+  -Akey[=value]              Options to pass to annotation processors
+  -X                         Print a synopsis of nonstandard optio-fonts.git
+  260  sudo apt install git
+  261  git clone https://github.com/iamdh4/ttf-wps-fonts.git
+  262  sudo mv ttf-wps-fonts/* /usr/share/fonts/wps-fonts
+  263  sudo chmod 644 /usr/share/fonts/wps-fonts/*
+  264  sudo fc-cache -vfs
+  265  rm -rf /tmp/ttf-wps-fonts
+  266  sudo apt-get install font-manager
+  267  sudo mkdir /usr/share/fonts/WindowsFonts
+  268  sudo cp /media/lloyso/DA78473B784715A3/Windows/Fonts/* /usr/share/fonts/WindowsFonts
+  269  chmod 755 /usr/share/fonts/WindowsFonts/*
+  270  sudo chmod 755 /usr/share/fonts/WindowsFonts/*
+  271  fc-cache
+  272  sudo apt-get install msttcorefonts
+  273  sudo apt-get install ttf-mscorefonts-installer
+  274  sudo apt update
+  275  cd ..
+  276  cd /
+  277  cd usr
+  278  ls
+  279  cd share/
+  280  ls
+  281  sudo mkdir /usr/share/fonts/wps-fonts
+  282  ls
+  283  cd fonts
+  284  ls
+  285  nmap -sS 192.168.1.0/24
+  286  sudo nmap -sS 192.168.1.0/24
+  287  iw dev
+  288  sudo apt-get install arp-scan
+  289  arp-scan --interface=wlan0 --localnet
+  290  sudo arp-scan --interface=wlan0 --localnet
+  291  ifconfig
+  292  sudo nmap -sP 192.168.1.0/24
+  293  sudo iw dev
+  294  sudo add-apt-repository ppa:dhor/myway
+  295  sudo apt-get update
+  296  sudo apt-get install graphicsmagick
+  297  wget http://www.irs.gov/pub/irs-pdf/f1040.pdf
+  298  sudo apt-get install imagemagick
+  299  sudo apt-get install pdfshuffler
+  300  sudo apt-get install pdftk
+  301  sudo add-apt-repository ppa:pdfchain-team/ppa
+  302  sudo apt-get update
+  303  sudo apt-get install pdfchain
+  304  qmake -v
+  305  wget http://download.qt.io/official_releases/qt/5.7/5.7.0/qt-opensource-linux-x64-5.7.0.run
+  306  wget http://get.code-industry.net/public/master-pdf-editor-4.0.10_qt5.amd64.d
+  307  wget http://get.code-industry.net/public/master-pdf-editor-4.0.10_qt5.amd64.deb
+  308  cd Downloads/
+  309  ls
+  310  sudo dpkg -i master-pdf-editor-*.deb
+  311  sudo apt -f install
+  312  htop
+  313  top
+  314  off-line$ sudo apt-offline set debian-update.sig --update
+  315  sudo apt-offline set debian-update.sig --update
+  316  sudo apt-offline set debian-upgrade.sig --upgrade
+  317  sudo apt-get install apt-offline-gui onlyoffice-desktopeditors  krita anaconda pycharm 
+  318  sudo apt-offline --update --upgrade --install-package apt-offline-gui onlyoffice-desktopeditors  krita anaconda pycharm mono /home/lloyso/debian-install.sig
+  319  sudo apt-offline set debian-install.sig --update --upgrade --install-package apt-offline-gui onlyoffice-desktopeditors  krita anaconda pycharm mono
+  320  ./studio.sh 
+  321  bash Anaconda3-4.4.0-Linux-x86_64.sh 
+  322  source ~/.bashrc
+  323  conda list
+  324  jupyter
+  325  jupyter --version
+  326  jupyter Intro\ to\ Geospatial\ Data\ with\ Python.ipynb 
+  327  jupyter Intro%20to%20Geospatial%20Data%20with%20Python.ipynb
+  328  jupyter Intro_to_Geospatial_Data_with_Python.ipynb 
+  329  conda
+  330  sudo apt-offline install debian-update.zip 
+  331  sudo apt-offline install /media/lloyso/OFFLINE/debian-update.zip 
+  332  sudo apt-offline install /media/lloyso/OFFLINE/debian-upgrade.zip 
+  333  sudo apt-get upgrade
+  334  sudo apt-get update
+  335  sudo apt-get upgrade
+  336  sudo apt-get --fix-missing
+  337  sudo apt-get update --fix-missing
+  338  ls
+  339  ls -l
+  340  sudo chmod 775 qt-opensource-linux-x64-5.7.0.run 
+  341  ls -l
+  342  ./qt-opensource-linux-x64-5.7.0.run 
+  343  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+  344  sudo echo "deb http://download.mono-project.com/repo/debian wheezy main" | sudo tee /etc/apt/sources.list.d/mono-xamarin.list
+  345  sudo apt-get update
+  346  sudo echo "deb http://iachievedit-repos.s3.amazonaws.com/ xenial main" | sudo tee --append /etc/apt/sources.list
+  347  sudo apt-get update
+  348  cd ..
+  349  sudo apt-offline set debian-update.sig --update
+  350  sudo apt-offline set debian-upgrade.sig --upgrade
+  351  sudo apt-offline set debian-install.sig --install-packages apt-offline-gui onlyoffice-desktopeditors build-essential libssl-dev libcurl4-gnutls-dev libexpat1-dev gettext unzip krita cinelerra mono-develop monodevelop-latest swift3 scribus gcc g++
+  352  sudo ./qt-opensource-linux-x64-5.7.0.run 
+  353  sudo subl /etc/apt/sources.list
+  354  sudo apt-get update
+  355  ./studio.sh 
+  356  g++
+  357  mkdir BASIC_QGIS QGIS_LESSON SYNFIG_TUT QGIS_PYTH
+  358  chmod +x qt-opensource-linux-x64-5.7.0.run 
+  359  ./qt-opensource-linux-x64-5.7.0.run 
+  360  sudo ./qt-opensource-linux-x64-5.7.0.run 
+  361  ./studio.sh 
+  362  tar -zcvpf sdkog.tar.gz Sdk/
+  363  tar -xzvf sdk3.tar.gz 
+  364  ./studio.sh 
+  365  dpkg -i ubuntu-tweak_0.8.7-1~precise1_all.deb 
+  366  sudo dpkg -i ubuntu-tweak_0.8.7-1~precise1_all.deb 
+  367  top
+  368  htop
+  369  gksudo synaptic
+  370  sudo apt-get install -f
+  371  mkdir KDENLIVE_VIDS KDENLIVE_WEB
+  372  LS
+  373  ls
+  374  mv *_files KDENLIVE_WEB/
+  375  clear
+  376  ls
+  377  mv *.mp4 KDENLIVE_VIDS/
+  378  mv *.webm KDENLIVE_VIDS/
+  379  mkdir KDENLIVE_PDF
+  380  mv -v *.pdf KDENLIVE_PDF/
+  381  kdenlive
+  382  sudo -E wget --output-document=/etc/apt/sources.list.d/medibuntu.list http://www.medibuntu.org/sources.list.d/$(lsb_release -cs).list && sudo apt-get --quiet update && sudo apt-get --yes --quiet --allow-unauthenticated install medibuntu-keyring && sudo apt-get --quiet update
+  383  sudo add-apt-repository ppa:paul-climbing/ppa
+  384  sudo add-apt-repository ppa:stebbins/handbrake-snapshots
+  385  sudo apt update
+  386  sudo subl /etc/apt/sources.list
+  387  sudo apt update
+  388  sudo subl /etc/apt/sources.list
+  389  sudo apt remove handbrake && sudo apt autoremove
+  390  sudo add-apt-repository ppa:stebbins/handbrake-releases
+  391  sudo apt update
+  392  sudo apt install handbrake-gtk handbrake-cli
+  393  gksudo archives/
+  394  gksudo nautilus archives/
+  395  ffmpeg -i bank_job.mp4 -vcodec h264 -acodec mp2 bank_jobb.mp4
+  396  ffmpeg -i /home/lloyso/003PRFLLO_PRJTS/ZX0001VDSPRJ1/2717_LPCPRJ/converted/10.bank_job.mp4  -vcodec h264 -acodec mp2 /home/lloyso/003PRFLLO_PRJTS/ZX0001VDSPRJ1/2717_LPCPRJ/converted/10.bank_jobb.mp4 
+  397  ffmpeg -i /home/lloyso/003PRFLLO_PRJTS/ZX0001VDSPRJ1/2717_LPCPRJ/converted/10.bank_jobb.mp4  -vcodec h264 -acodec mp2 /home/lloyso/003PRFLLO_PRJTS/ZX0001VDSPRJ1/2717_LPCPRJ/converted/10.bank_jobbb.mp4 
+  398  cd ..
+  399  gksudo nautilus /media/lloyso/POC13
+  400  sudo apt-get scrubus
+  401  sudo apt-get install mencoder
+  402  sudo apt-get install ffmpeg
+  403  sudo apt-get install libav-tools 
+  404  sudo add-apt-repository ppa:scribus/ppa
+  405  sudo apt-get update
+  406  sudo apt-get install scribus-ng
+  407  sudo apt-get update --fix-missing
+  408  sudo add-apt-repository ppa:openshot.developers/ppa
+  409  sudo apt-get update
+  410  sudo apt-get install openshot-qt 
+  411  sudo add-apt-repository ppa:paul-climbing/ppa
+  412  sudo apt-get install winff 
+  413  sudo echo "deb http://cran.rstudio.com/bin/linux/ubuntu xenial/" | sudo tee -a /etc/apt/sources.list
+  414  gpg --keyserver keyserver.ubuntu.com --recv-key E084DAB9
+  415  gpg -a --export E084DAB9 | sudo apt-key add -
+  416  sudo apt-get update
+  417  sudo apt-get install r-base r-base-dev
+  418  sudo apt-get install gdebi-core
+  419  wget https://download1.rstudio.org/rstudio-0.99.896-amd64.deb
+  420  sudo gdebi -n rstudio-0.99.896-amd64.deb
+  421  sudo dpg ubuntu-tweak_0.8.7-1~precise1_all.deb 
+  422  python -v
+  423  gparted
+  424  sudo apt-get install gparted
+  425  sudo gparted
+  426  sudo parted /dev/sdk unit s print
+  427  parted /dev/sdk
+  428  sudo parted /dev/sdk
+  429  mount -a
+  430  sudo mount -a
+  431  mkdir /newdisk
+  432  sudo mkdir /newdisk
+  433  sudo mount /dev/sdk /newdisk
+  434  dmesg | tail
+  435  dmesg
+  436  partprobe /dev/sdk
+  437  sudo partprobe /dev/sdk
+  438  man partprobe
+  439  tail -f /var/log/messages
+  440  sudo dosfsck -w -r -l -a -v -t /dev/sdk
+  441  sudo dosfsck -w -r -l -a -v -t /dev/sdk1
+  442  sudo apt-get install dosfstools
+  443  mount
+  444  dmesg|tail
+  445  sudo dosfsck -t -a /dev/sdk
+  446  fsck.vfat -r /dev/sdk
+  447  sudo fsck.vfat -r /dev/sdk
+  448  sudo dosfsck -n /dev/sdk1
+  449  sudo dosfsck -n /dev/sdk
+  450  sudo add-apt-repository universe 
+  451  sudo add-apt-repository ppa:mkusb/ppa
+  452  sudo apt-get update
+  453  sudo apt-get install mkusb mkusb-nox usb-pack-efi
+  454  sudo fdisk -l /dev/sdk
+  455  sudo dd if=/dev/zero of=/dev/sdk
+  456  chmod +x qt-opensource-linux-x64-5.7.0.run
+  457  ./qt-opensource-linux-x64-5.7.0.run
+  458  sudo add-apt-repository ppa:thefanclub/ubuntu-after-install
+  459  sudo apt-get update
+  460  sudo apt-get install ubuntu-after-install
+  461  sudo apt-get remove ubuntu-after-install
+  462  sudo apt-get install ubuntu-after-install
+  463  ubuntu-after-install
+  464  sudo apt-get install build-essential
+  465  sudo apt-get install libfontconfig1
+  466  sudo dpkg -i master-pdf-editor-4.0.10_qt5.amd64.deb 
+  467  sudo dpkg -i onlyoffice-desktopeditors_amd64.deb 
+  468  sudo apt-get -f
+  469  sudo apt-get install-f
+  470  sudo apt-get -f install
+  471  sudo dpkg -i ubuntu-tweak_0.8.7-1~precise1_all.deb 
+  472  ./qt-opensource-linux-x64-5.7.0.run 
+  473  git --version
+  474  [Fork](https://help.github.com/articles/fork-a-repo/) The 2017Challenges Repository
+  475  git --version
+  476  sudo apt-get update && sudo apt-get upgrade && sudo apt-get install git -Y
+  477  git --version
+  478  sudo apt-get install git-all
+  479  git --version
+  480  git config --global user.email "loynaps@users.noreply.github.com"
+  481  git config --global user.email
+  482  git config --global user.name "loynaps"
+  483  git config --global user.name 
+  484  git clone https://github.com/loynaps/Spoon-Knife.git
+  485  git clone https://github.com/git/git
+  486  git --version
+  487  sudo add-apt-repository ppa:git-core/ppa
+  488  sudo aptitude update
+  489  cd ..
+  490  git remote -v
+  491  cd ..
+  492  git remote -v
+  493  cd ls
+  494  cd
+  495  ls
+  496  cd Spoon-Knife/
+  497  cd ..
+  498  git remote -v
+  499  git clone https://github.com/loynaps/Spoon-Knife.git
+  500  git remote -v
+  501  cd Spoon-Knife/
+  502  git remote -v
+  503  git remote add upstream https://github.com/loynaps/Spoon-Knife.git
+  504  git remote -v
+  505  clear
+  506  git fetch upstream
+  507  git checkout master
+  508  git merge upstream/master
+  509  git clonehttps://github.com/YearOfProgramming/2017Challenges.git
+  510  git clone https://github.com/YearOfProgramming/2017Challenges.git
+  511  cd 2017Challenges/
+  512  git config --global push.default simple
+  513  git config --global user.name "loynaps"
+  514  git config --global user.email "loynaps@users.noreply.github.com"
+  515  git remote add challenges https://github.com/YearOfProgramming/2017Challenges.git
+  516  git branch
+  517  git checkout -b python_0
+  518  git branch
+  519  git status
+  520  touch file
+  521  ls
+  522  git status
+  523  git add file
+  524  git stash
+  525  git status
+  526  git checkout master
+  527  git status
+  528  git checkout python_0
+  529  git stash pop
+  530  git reset HEAD file
+  531  git clean -n
+  532  git clean -f 
+  533  ls
+  534  cd challenge_0
+  535  ls
+  536  cd c
+  537  ls
+  538  mkdir lloyso
+  539  cd lloyso/
+  540  mkdir src
+  541  sudo apt-get install git-gui
+  542  gcc -version
+  543  gcc --version
+  544  sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
+  545  sudo apt-get update
+  546  sudo apt-get install ubuntu-make
+  547  sudo apt-get -f install
+  548  sudo apt-get install -missing
+  549  sudo apt-get -f install
+  550  sudo apt-get install git-daemon-sysvinit
+  551  apt-get
+  552  apt-get check
+  553  sudo apt-get check
+  554  ./pycharm.sh 
+  555  ls
+  556  chmod 755 IntelliJIDEALicenseServer_linux_amd64 
+  557  ls -l
+  558  sudo dpkg --configure -a
+  559  sudo apt-get purge runit
+  560  sudo apt-get purge git-all
+  561  sudo apt-get purge git
+  562  sudo apt-get autoremove
+  563  sudo apt update 
+  564  sudo apt-get install git-daemon-sysvinit
+  565  sudo apt-get install git-all
+  566  sudo apt-get install git-daemon-sysvinit
+  567  gksudo nautilus /var/cache/apt
+  568  who
+  569  sudo dpkg --add-architecture i386
+  570  add-apt-repository ppa:wine/wine-builds
+  571  sudo add-apt-repository ppa:wine/wine-builds
+  572  wget https://dl.winehq.org/wine-builds/Release.key
+  573  sudo apt-key add Release.key
+  574  sudo apt-add-repository 'https://dl.winehq.org/wine-builds/ubuntu/'
+  575  sudo apt-get update
+  576  sudo apt-get -f install
+  577  sudo dpkg -i codeblocks-contrib_13.12+dfsg-4_amd64.deb 
+  578  dpkg -i *.deb
+  579  sudo dpkg -i *.deb
+  580  sudo apt-get -f install
+  581  gksu software-properties-gtk
+  582  gksudo nautilus /var/cache/apt
+  583  sudo apt-get install -f 
+  584  sudo apt-get install --fix-broken
+  585  sudo add-apt-repository ppa:damien-moore/codeblocks-stable
+  586  sudo apt update
+  587  sudo apt install codeblocks codeblocks-contrib
+  588  sudo apt-get install -f 
+  589  sudo apt remove codeblocks && sudo apt autoremove
+  590  sudo apt-get install --fix-missing
+  591  sudo apt-get install -f 
+  592  sudo apt autoremove
+  593  sudo apt-get install libgamin0 libwxbase2.8-0 libwxgtk2.8-0 libwxsmithlib0 codeblocks codeblocks-contrib-common valgrind cppcheck cscope cccc codeblocks-contrib wxsmith-dev
+  594  sudo apt-get install libcodeblocks0
+  595  sudo apt-get install libwxbase2.8-0
+  596  sudo apt-get install --fix-missing
+  597  sudo apt-get install -f 
+  598  ./IntelliJIDEALicenseServer_linux_amd64 
+  599  pycharm
+  600  ./IntelliJIDEALicenseServer_linux_amd64 
+  601  gksudo nautilus /opt
+  602  gksudo nautilus /media/lloyso/A885-1105
+  603  layer via copy/cut plugin
+  604  sudo apt-get install libgimp2.0-dev libpcre3-dev
+  605  wget https://github.com/alessandrofrancesconi/gimp-plugin-bimp/archive/v1.18.tar.gz
+  606  tar -xvf v1.18.tar.gz
+  607  cd gimp-plugin-bimp-1.18
+  608  make
+  609  sudo apt-get install libgimp2.0-dev libpcre3-dev
+  610  cd ..
+  611  cd Downloads
+  612  sudo add-apt-repository ppa:otto-kesselgulasch/gimp
+  613  sudo apt-get update
+  614  sudo apt-get install gimp-plugin-registry
+  615  cd ..
+  616  sudo apt-get autoremove codeblocks
+  617  apt-get -f install
+  618  sudo apt-get -f install
+  619  dpkg -L gimp | grep plug-ins
+  620  sh -c "$(wget https://raw.githubusercontent.com/doctormo/GimpPs/master/tools/install.sh -O -)"
+  621  gksudo nutilus /media/lloyso/5CE1-F412/Video2 
+  622  sudo su
+  623  conda list
+  624  conda search
+  625  conda search "^python$"
+  626  conda create --name my_env1 python=3
+  627  conda create --name dsci_env python=3 numpy pypi pandas lifeline
+  628  ifconfig
+  629  sudo nmap -sP 192.168.1.0/24
+  630  sudo apt-get install aireplay-ng 
+  631  sudo apt-get install arp-scan
+  632  arp-scan --interface=wlan0 --localnet
+  633  sudo arp-scan --interface=wlan0 --localnet
+  634  sudo arp-scan --interface=eth0 --localnet
+  635  sudo netstat -altupn
+  636  sudo arp-scan -l --interface=wlan0
+  637  ifconfig
+  638  gparted
+  639  sudo gparted
+  640  poweroff
+  641  python --version
+  642  git clone --depth 1 git@github.com:spatialthoughts/qgis-tutorials.git --no-single-branch
+  643  cat /ptoc/cpuinfo
+  644  cat /proc/cpuinfo
+  645  cat /proc/meminfo
+  646  dpkg-reconfigure --all
+  647  sudo apt-get -s autoremove
+  648  sudo apt-get autoremove wine
+  649  sudo apt-get upgrade
+  650  TOP
+  651  top
+  652  top
+  653  kill 3184
+  654  top
+  655  kill 6527
+  656  top
+  657  kill 1201
+  658  top
+  659  kill 2341
+  660  kill 14314
+  661  kill 2253
+  662  kill 1917
+  663  top
+  664  mkdir Section1-Intro_to_Python_Programming Section2-Modules+functions Section3-Strings_In_Python Section4-Sequences+Slicing Section5-Coonditional_Statements Section6-Loop_Statements Section7-Functions Section8-OOP Section9-File_Handling
+  665  rm *.smi
+  666  kill 28271
+  667  kill 9334
+  668  kill 9359
+  669  kill 9381
+  670  kill 28134
+  671  kill 1010
+  672  kill 7778
+  673  kill27631
+  674  kill 27631
+  675  clear
+  676  kill 9402
+  677  kill 27922
+  678  top
+  679  rm *.smi
+  680  conda list
+  681  conda list --export
+  682  conda create -n chlenv --file <export file>
+  683  conda create search numpy
+  684  conda search numpy
+  685  gksudo /home/louis/Desktop 
+  686  gksudo nautilus /home/louis/Desktop 
+  687  wine --version
+  688  sudo apt-get remove --purge wine:i386
+  689  sudo apt-get autoremove wine
+  690  sudo apt-get install ppa-purge
+  691  sudo ppa-purge ppa:wine/wine-builds
+  692  sudo apt-get --purge remove wine
+  693  sudo apt-get --purge remove wine-1.6.2
+  694  rm -r "$HOME/.wine"
+  695  rm  $HOME/.config/menus/applications-merged/wine*
+  696  sudo rm $HOME/.config/menus/applications-merged/wine*
+  697  sudo rm -r "$HOME/.local/share/applications/wine"
+  698  sudo rm -r $HOME/.local/share/applications/wine
+  699  rm $HOME/.local/share/desktop-directories/wine*
+  700  rm $HOME/.local/share/icons/????_*.xpm
+  701  sudo apt-get remove --purge wine
+  702  wine --version
+  703  sudo apt-get remove --purge wine-1.6.2
+  704  sudo apt-get remove wine-1.6.2 --purge
+  705  for i in `locate wine`; do sudo rm -rf $i; done
+  706  wine --version
+  707  sudo dpkg --add-architecture i386 
+  708  wget -nc https://dl.winehq.org/wine-builds/Release.key
+  709  sudo apt-key add Release.key
+  710  sudo apt-add-repository https://dl.winehq.org/wine-builds/ubuntu
+  711  sudo apt-get install --install-recommends winehq-stable
+  712  sudo apt-get install --install-recommends winehq-stable
+  713  sudo apt-get -f install
+  714  wine --version
+  715  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+  716  echo "deb http://download.mono-project.com/repo/ubuntu xenial main" | sudo tee /etc/apt/sources.list.d/mono-official.list
+  717  sudo apt-get update
+  718  sudo apt-get install mono-devel
+  719  sudo apt-get -f install
+  720  wine cspro70.exe 
+  721  sudo gparted
+  722  gparted
+  723  sudo gparted
+  724  gksudo nautilus /media/lloyso/LLO002SWDT 
+  725  ls -l
+  726  cd Desktop/
+  727  ls -l
+  728  ./swdd.sh 
+  729  sudo gparted
+  730  mkdir Pictures Documents Music Videos
+  731  ./swdd.sh 
+  732  sudo apt-get update
+  733  sudo apt-get upgrade
+  734  sudo apt-get -f install
+  735  sudo apt-get install --fix-missing
+  736  python --version
+  737  ./android-studio/
+  738  cd Desktop/
+  739  ./androidstudio.sh 
+  740  ls -l
+  741  ./androidstudio.sh 
+  742  rm *.smi
+  743  ./firefox
+  744  sudo ./firefox
+  745  java -version
+  746  ls -l
+  747  man chmod 
+  748  chmod -R +777 PPA_FRMTP-31817/
+  749  sudo su
+  750  gksudo nautilus /media/lloyso/LLO002SWDT 
+  751  java -version
+  752  wine CARDS.EXE 
+  753  wine Setup.exe 
+  754  gksudo nautilus /media/lloyso/LLO002SWDT 
+  755  kill 4543
+  756  kill 25311
+  757  kill 10421
+  758  kill 4347
+  759  kill 1949
+  760  kill 25338
+  761  TOP
+  762  top
+  763  mkdir 01-DEV_FRUM 02-REPAIR-FRUM 03-FILESYS_FRUM 04-WINMNG_FRUM 05-UTILITY_FRUM 06-MEDIA_FRUM 07-PRODAPP_FRUM 08-CMD_FRUM
+  764  gksudo nautilus /media/lloyso/LLO002SWDT 
+  765  ./lampp.sh 
+  766  ./swdd.sh 
+  767  mkdir 01-PYTHON_FRUM 02-JAVA_FRUM 03-PHP_FRUM 04-WP_FRUM 05-GIS_FRUM 06-TEXTEDITOR_FRUM 07-ANDROID_FRUM 08-MARIADB_FRUM 
+  768  ./apache_start.sh 
+  769  ./mysql_start.sh 
+  770  gksudo nautilus /usr/share/applications/
+  771  javac Introductions.java 
+  772  java Introductions 
+  773  javac Introductions.java 
+  774  java Introductions 
+  775  javac Introductions2.java 
+  776  java Introductions2 
+  777  javac Introductions2.java 
+  778  java Introductions2 
+  779  javac Introductions2b.java 
+  780  java Introductions2b 
+  781  javac Introductions4.java 
+  782  java Introductions4 
+  783  javac Introductions5.java 
+  784  java Introductions5
+  785  javac Introductions5.java 
+  786  java Introductions5
+  787  java Introductions5b
+  788  javac Introductions5b.java 
+  789  java Introductions5b
+  790  javac Introductions5b.java 
+  791  java Introductions5b
+  792  javac Introductions6.java 
+  793  java Introductions6
+  794  python
+  795  python2
+  796  javac Introductions6.java 
+  797  java Introductions6
+  798  javac Introductions6.java 
+  799  java Introductions6
+  800  javac Introductions6.java 
+  801  java Introductions6
+  802  javac Introductions6.java 
+  803  clear && javac TreeStory.java && java TreeStory
+  804  clear && javac Multiple.java && java Multiple
+  805  clear && javac TreeStory1.java && java TreeStory1
+  806  clear && javac TreeStory2.java && java TreeStory2
+  807  clear && javac template.java && java plate
+  808  javac plate.java 
+  809  clear && javac template.java && java plate
+  810  clear && javac plate2.java && java plate2
+  811  javac Hello.java 
+  812  java he
+  813  java Hello 
+  814  javac Hello.java 
+  815  java Hello 
+  816  javac Hello.java 
+  817  java Hello 
+  818  javac hello.java 
+  819  java hello 
+  820  javac -Xdiags Greeter.java 
+  821  clear && javac Greeter.java && java Greeter
+  822  clear && javac Challenge5a1.java && java Challenge5a1
+  823  clear && javac Challenge5a2.java && java Challenge5a2
+  824  kill 5468
+  825  kill 13106
+  826  kill 9753
+  827  kill 2427
+  828  kill 2135
+  829  kill 7441
+  830  kill 28236
+  831  kill 1515
+  832  kill 4225
+  833  top
+  834  top
+  835  clear && javac plate2.java && java plate2clear && javac TreeStory4.java && java TreeStory4
+  836  clear && javac TreeStory4.java && java TreeStory4
+  837  clear && javac TreeStory5.java && java TreeStory5
+  838  clear && javac TreeStory5a.java && java TreeStory5a
+  839  clear && javac Challenge5a1.java && java Challenge5a1
+  840  clear && javac TreeStory6.java && java TreeStory6
+  841  clear && javac TreeStory7.java && java TreeStory7
+  842  javac MoveTest.java 
+  843  java MoveTest 
+  844  javac MoveTest.java 
+  845  java MoveTest 
+  846  clear && javac TreeStory3.java && java TreeStory3
+  847  clear && javac TreeStory4.java && java TreeStory4
+  848  kill 3738
+  849  kill 28920
+  850  top
+  851  clear && javac TreeStory7.java && java TreeStory7
+  852  javac c701.java 
+  853  java c701 
+  854  clear
+  855  javac c702
+  856  javac c702.java 
+  857  clear
+  858  javac c702.java 
+  859  clear
+  860  javac c702.java 
+  861  java c702
+  862  javac c702.java 
+  863  java c702
+  864  javac c702.java 
+  865  java c702
+  866  javac c703.java 
+  867  java c703
+  868  javac c703.java 
+  869  java c703
+  870  clear
+  871  clear && javac TreeStory7.java && java TreeStory7
+  872  mkdir treehouse_java_files
+  873  cd treehouse_java_files/
+  874  git init
+  875  touch Readme.txt
+  876  ls
+  877  git status
+  878  git add Readme.txt
+  879  git commit -m “Add Readme.txt”
+  880  git remote add origin https://github.com/loynaps/treehouse_java_files
+  881  git remote -v
+  882  git push
+  883  git push --set-upstream origin master
+  884  git config --global user.name "loynaps"
+  885  clear
+  886  git config --global user.email "loynaps@gmail.com"
+  887  git push --set-upstream origin master
+  888  git commit -m “Add Readme.txt”
+  889  git commit -m “Add Readme.md”
+  890  git clone https://github.com/loynaps/treehouse_java_files
+  891  git status
+  892  git help
+  893  git version
+  894  git remote -v
+  895  clear
+  896  mkdir git commit
+  897  mkdir thse_loopy
+  898  cd thse_loopy/
+  899  git init
+  900  javac Questions.java 
+  901  clear
+  902  javac Questions.java 
+  903  java Questions 
+  904  javac Questions.java 
+  905  java Questions 
+  906  javac Questions.java 
+  907  java Questions 
+  908  javac Questions.java 
+  909  java Questions 
+  910  javac Questions.java 
+  911  java Questions 
+  912  javac Questions.java 
+  913  java Questions 
+  914  javac Questions.java 
+  915  java Questions 
+  916  clear
+  917  javac KaGolf.java 
+  918  clear
+  919  javac KaGolf.java 
+  920  clear
+  921  javac KaGolf.java 
+  922  java KaGolf 
+  923  clear
+  924  javac KaGolf.java 
+  925  java KaGolf 
+  926  clear
+  927  javac KaGolf.java 
+  928  clear && javac KaGolf.java && java KaGolf
+  929  javac 
+  930  clear && javac Ubisi.java && java Ubisi
+  931  clear
+  932  git config --global user.name "loynaps"
+  933  git config --global user.name
+  934  git config --global user.email "loynaps@users.noreply.github.com"
+  935  git config --global user.email 
+  936  cd thse_loopy/
+  937  ls
+  938  cd ..
+  939  cd treehouse_java_files/
+  940  ls
+  941  git status
+  942  git commit -m “Add Readme.md”
+  943  javac FirstJacksons.java 
+  944  clear
+  945  java FirstJacksons 
+  946  sudo add-apt-repository ppa:git-core/ppa
+  947  sudo apt-get update
+  948  git -version
+  949  git --version
+  950  sudo apt-get upgrade
+  951  unity --version
+  952  sudo apt-get install ubuntu-restricted-extras
+  953  sudo apt-get install tlp
+  954  sudo add-apt-repository ppa:ubuntu-x-swat/updates -y
+  955  sudo apt-get update
+  956  clear
+  957  javac EachJacksons.java 
+  958  java EachJacksons 
+  959  clear
+  960  javac DunkWhile.java 
+  961  clear
+  962  javac DunkWhile.java 
+  963  java DunkWhile 
+  964  clear
+  965  javac DunkWhile.java 
+  966  java DunkWhile 
+  967  clear
+  968  javac DunkWhile.java 
+  969  java DunkWhile 
+  970  clear
+  971  javac DunkWhile.java 
+  972  java DunkWhile 
+  973  clear
+  974  javac DunkWhile.java 
+  975  java DunkWhile 
+  976  javac DunkFor.java 
+  977  java DunkFor 
+  978  javac DunkFor.java 
+  979  java DunkFor 
+  980  javac DunkFor.java 
+  981  java DunkFor 
+  982  clear
+  983  java DunkFor 
+  984  clear
+  985  java DunkFor 
+  986  javac IceC.java 
+  987  java IceC 
+  988  javac IceC.java 
+  989  clear
+  990  java IceC 
+  991  javac IceC.java 
+  992  java IceC 
+  993  clear
+  994  javac Prizes.java 
+  995  java Prizes 
+  996  clear
+  997  javac Prizes.java 
+  998  git config --global user.name "loynaps@users.noreply.github.com"
+  999  git config --global user.name
+ 1000  git config --global user.email "29262019+loynaps@users.noreply.github.com"
+ 1001  git config --global user.email
+ 1002  git init
+ 1003  git add .
+ 1004  git reset HEAD *.class
+ 1005  git commit -m "First commit"
+ 1006  git remote add origin remote repository https://github.com/loynaps/thse_loopy.git
+ 1007  git remote add origin https://github.com/loynaps/thse_loopy.git
+ 1008  git remote -v
+ 1009  git push origin master
+ 1010  ls
+ 1011  sudo apt-get purge nvidia*
+ 1012  reboot
+ 1013  sudo apt-get update
+ 1014  ls -1A
+ 1015  ls -lA
+ 1016  reboot
+ 1017  sudo apt-get upgrade
+ 1018  ls -l
+ 1019  sudo apt-get --fix-broken install
+ 1020  dpkg-reconfigure lightdm
+ 1021  sudo dpkg-reconfigure lightdm
+ 1022  sudo startx
+ 1023  jshell
+ 1024  cd thse_Objects_Java/
+ 1025  java Example 
+ 1026  cd thse_Objects_Java/
+ 1027  java Example 
+ 1028  javac Example2.java 
+ 1029  clear
+ 1030  javac Example3.java 
+ 1031  clear
+ 1032  javac Example3.java 
+ 1033  java Example3 
+ 1034  javac Example3.java 
+ 1035  cd thse_Objects_Java/
+ 1036  javac Example3.java 
+ 1037  java Example3 
+ 1038  ./swdd.sh 
+ 1039  gcc -version
+ 1040  gcc --version
+ 1041  gcc welcome.c 
+ 1042  g++ --version
+ 1043  sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+ 1044  sudo apt-get update
+ 1045  sudo apt-get install gcc-6 g++-6
+ 1046  sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-6 20 --slave /usr/bin/g++ g++ /usr/bin/g++-6
+ 1047  gcc -version
+ 1048  gcc --version
+ 1049  g++ --version
+ 1050  sudo apt-get install vim codelite cmake
+ 1051  vim tutor
+ 1052  sudo add-apt-repository ppa:jonathonf/vim
+ 1053  sudo apt update
+ 1054  sudo apt install vim
+ 1055  apt list
+ 1056  vimtutor
+ 1057  sudo apt install cmake
+ 1058  sudo add-apt-repository ppa:george-edison55/cmake-3.x
+ 1059  sudo apt update
+ 1060  java TransposeAMatrix 
+ 1061  java HelloWorld 
+ 1062  java IPAddress 
+ 1063  uname
+ 1064  history
+lloyso@lloyso-001-PC:~/thse_Objects_Java$ 
